@@ -4,5 +4,11 @@
     "Menu:Home": "Home",
     "Welcome": "Welcome",
     "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
-  }
+  },
+  "Permission:Employee_Management_System": "Employee System",
+  "Permission:Employees": "Employee Management",
+  "Permission:Employees.Create": "Creating new Employees",
+  "Permission:Employees.Edit": "Editing the Employees",
+  "Permission:Employees.Delete": "Deleting the Employees"
+
 }
